@@ -16,11 +16,11 @@ You can check out the live version of Easy Notes -
      
 
   - 📱 **Tablet View**:  
-    ![Tablet View](./screenshots/tablet.png)  
+    <img src=./Tabletview.png width="500"/>
      
 
   - 📲 **Mobile View**:  
-    ![Mobile View](./screenshots/mobile.png)  
+    <img src=./Mobileview.png height="500"/>  
      
 
 - **Eye-Pleasing UI**:  
