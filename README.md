@@ -4,7 +4,7 @@
 
 ## ⚙️ Demo
 
-You can check out the live version of Easy Notes [here](your-demo-link).
+You can check out the live version of Easy Notes - 
 
 ## ✨ Key Features
 
@@ -12,16 +12,16 @@ You can check out the live version of Easy Notes [here](your-demo-link).
   Easy Notes adjusts perfectly to various screen sizes, ensuring seamless usability across laptops, tablets, and mobile devices. Here are some screenshots demonstrating its responsiveness:
 
   - 🖥️ **Laptop View**:  
-    ![Laptop View](./screenshots/laptop.png)  
-    *(Replace with your laptop image)*
+     <img src=./Laptopview.png width="500"/>
+     
 
   - 📱 **Tablet View**:  
     ![Tablet View](./screenshots/tablet.png)  
-    *(Replace with your tablet image)*
+     
 
   - 📲 **Mobile View**:  
     ![Mobile View](./screenshots/mobile.png)  
-    *(Replace with your mobile image)*
+     
 
 - **Eye-Pleasing UI**:  
   The app features a clean and modern interface that prioritizes usability without sacrificing aesthetics. The simple layout ensures an effortless note-taking experience while maintaining visual appeal.
@@ -46,13 +46,11 @@ You can check out the live version of Easy Notes [here](your-demo-link).
 
 To run the project locally:
 
-1. Download the repo [here](your-repo-link).
+1. Download the repo.
 2. Extract the files and open `index.html` in your preferred browser.
 
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, create your own branch, and submit a pull request with your enhancements or bug fixes!
 
-## 📝 License
-
-This project is licensed under the MIT License.
+ 
