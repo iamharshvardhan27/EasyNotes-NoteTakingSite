@@ -2,7 +2,7 @@
 
 **Easy Notes** is a simple and intuitive note-taking application designed to help users capture and manage their notes efficiently. The app is fully responsive, providing an optimal experience on any device, from laptops to tablets and mobile phones. Built using fundamental web technologies, the project focuses on clear, understandable code and an aesthetically pleasing user interface.
 
-## ⚙️ Demo
+## ⚙️ Demo - https://iamharshvardhan27.github.io/EasyNotes-NoteTakingSite/
 
 You can check out the live version of Easy Notes - 
 
