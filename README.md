@@ -45,7 +45,7 @@ You can check out the live version of Easy Notes - https://iamharshvardhan27.git
 
 To run the project locally:
 
-1. Download the repo.
+1. Download the repository.
 2. Extract the files and open `index.html` in your preferred browser.
 
 ## 🤝 Contributing
